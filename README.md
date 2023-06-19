@@ -2,11 +2,11 @@
 
 ## Exercícios
 
-1. [Implementar TypeScript no projeto](./01)
-2. Filtro de Usuários
-3. Tabuadas
-4. Impressão de Etiquetas
-5. Soletrando
+1. [Implementar TypeScript no projeto](./01/)
+2. [Filtro de Usuários](./02/)
+3. [Tabuadas](./03/)
+4. [Impressão de Etiquetas](./04/)
+5. [Soletrando](./05/)
 
 ---
 
